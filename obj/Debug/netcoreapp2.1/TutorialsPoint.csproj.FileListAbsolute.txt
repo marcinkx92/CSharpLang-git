@@ -1,0 +1,11 @@
+/home/marcinkx/dotNET workspace/TutorialsPoint/bin/Debug/netcoreapp2.1/TutorialsPoint.deps.json
+/home/marcinkx/dotNET workspace/TutorialsPoint/bin/Debug/netcoreapp2.1/TutorialsPoint.runtimeconfig.json
+/home/marcinkx/dotNET workspace/TutorialsPoint/bin/Debug/netcoreapp2.1/TutorialsPoint.runtimeconfig.dev.json
+/home/marcinkx/dotNET workspace/TutorialsPoint/bin/Debug/netcoreapp2.1/TutorialsPoint.dll
+/home/marcinkx/dotNET workspace/TutorialsPoint/bin/Debug/netcoreapp2.1/TutorialsPoint.pdb
+/home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.csprojAssemblyReference.cache
+/home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.csproj.CoreCompileInputs.cache
+/home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.AssemblyInfoInputs.cache
+/home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.AssemblyInfo.cs
+/home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.dll
+/home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.pdb
