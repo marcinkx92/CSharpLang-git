@@ -11,7 +11,7 @@ using System.Text;
 // ONE-DIMENSION ARRAYS //
         private static void ArraysInitialization(){
             //Deklaracja i inicjalizacja osobno
-            Console.WriteLine("Inicjaliacja tablic:");
+            Console.WriteLine(" >ArraysInitialization()");
             int[] tab1; //deklaracja zmiennej tablicowej
             tab1 = new int[2]; //inicjalizacja - fixed size (nie można zmienić wielkości)
             tab1[0]=10;
@@ -33,6 +33,7 @@ using System.Text;
 
 // RECTANGULAR ARRAYS //
         private static void RectangularArrays(){
+            Console.WriteLine(" >RectangularArrays()");
             Console.WriteLine("Rectangular Arrays");
             int[,] rect1 = new int[2,2] {
                 {1,2}, 
@@ -62,7 +63,7 @@ using System.Text;
         
 // JAGGED ARRAYS //
         private static void JaggedArrays(){
-            Console.WriteLine("\nJagged Arrays");
+            Console.WriteLine(" >JaggedArrays()");
             int[][] jagg1 = new int[3][]{ //
                 new int[] {1,2}, //w każdym wierszu inicjalizujemy nową tablicę
                 new int[] {2},
