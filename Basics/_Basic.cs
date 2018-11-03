@@ -5,9 +5,12 @@
         public static void BasicTest()
         {/*
             CallByValue.CallByValueTest();
-            */CallByReference.CallByReferenceTest();
+            CallByReference.CallByReferenceTest();
             NullOperators.NullOperatorsTest();
-            ParamModifiers.ParamModifiersTest();
+            ParamModifiers.ParamModifiersTest();*/
+            //Arrays.ArraysTest();
+            ArrayToFunction.ArrayToFunctionTest();
+            ArrayClass.ArrayClassTest();
         }
 
     }

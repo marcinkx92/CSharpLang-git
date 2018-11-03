@@ -15,8 +15,9 @@ public class NullOperators
         //NULL-CONDITIONAL OPERATOR (Elvis)
         //Jeżeli str=null to wartością całego wyrażenia będzie null a nie wyjątek
         var len = str?.Length;
-        Console.WriteLine(len); //null zamiast NullReferenceException
+        Console.WriteLine("len: "+len); //null zamiast NullReferenceException
         var isNull = str?.Contains(str?.Substring(0,1)); //2 x null
+        Console.WriteLine("isNull: "+isNull);
     }
 
 }

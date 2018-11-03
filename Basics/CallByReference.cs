@@ -4,7 +4,7 @@ using System.Text;
 
     public class CallByReference
     {
-        public static void CallingRef(ref int a, ref StringBuilder stb) //przekazujemy referenjcę
+        public static void CallingRef(ref int a, ref StringBuilder stb) //przekazujemy referencję
         {
             a++;
             stb.Append("To jest napis dodany przez metodę");
