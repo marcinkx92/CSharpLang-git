@@ -14,20 +14,21 @@ using System.Text;
             
         }
 
+        //out - referencja do zwracanej zmiennej jest przekazywana jako parametr do metody
         public static int CallingOut(out int wynik, int int1, int int2)
         {
             wynik = int1 + int2;
             return wynik;
         }
 
-        public static void CallByReferenceTest()
+        public static void Test()
         {
             Console.WriteLine("\n---CallByReferenceTest---");
             int value1 = 10;
-            StringBuilder string1 = new StringBuilder("Default");
-            CallingRef(ref value1,ref string1); // w wywołaniu tez trzeba dopisać ref do parametrów
+            StringBuilder stb = new StringBuilder("Default");
+            CallingRef(ref value1,ref stb); // w wywołaniu tez trzeba dopisać ref do parametrów
             Console.WriteLine("Poza metodą (oryginalne zmienne): ");
-            Console.WriteLine($"value1: {value1}, string1: {string1}");
+            Console.WriteLine($"value1: {value1}, stb: {stb}");
 
             
             //metoda z OUT: nie musimy przekazywać na wejściu parametru out, ale musi on być na wyjściu (również referencja)
@@ -39,5 +40,6 @@ using System.Text;
          -przekazujemy oryginalne zmienne: zmienną wartościową jako referencję do wartości, zm. referencyjną jako nią samą
          -pracujemy na oryginalnych zmiennych
          */
+
     }
     

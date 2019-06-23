@@ -23,7 +23,7 @@ using System.Text;
             Console.WriteLine("Minimum value of arr: "+arr[0]);
         }
 
-       public static void ArrayToFunctionTest(){
+       public static void Test(){
            Console.WriteLine("---\nArrayToFunction---");
            int[,] a = { 
                {1,2,3},

@@ -25,7 +25,7 @@ public class ParamModifiers
         return x*(y + z);
     }
 
-    public static void ParamModifiersTest()
+    public static void Test()
     {
         Console.WriteLine("\n---ParamModifiers---");
         // Do metody z argumentem params można przekazać dowolną liczbę argumentów danego typu lub tablicę

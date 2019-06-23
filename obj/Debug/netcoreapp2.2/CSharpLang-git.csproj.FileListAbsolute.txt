@@ -1,0 +1,11 @@
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.2/CSharpLang-git.deps.json
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.2/CSharpLang-git.runtimeconfig.json
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.2/CSharpLang-git.runtimeconfig.dev.json
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.2/CSharpLang-git.dll
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.2/CSharpLang-git.pdb
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.2/CSharpLang-git.csprojAssemblyReference.cache
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.2/CSharpLang-git.csproj.CoreCompileInputs.cache
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.2/CSharpLang-git.AssemblyInfoInputs.cache
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.2/CSharpLang-git.AssemblyInfo.cs
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.2/CSharpLang-git.dll
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.2/CSharpLang-git.pdb

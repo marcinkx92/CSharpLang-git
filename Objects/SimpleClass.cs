@@ -19,7 +19,7 @@ public class SimpleClass
         }
 
         // utworzymy obiekt klasy SimpleClass z metody zmajdującej się w tej samej klasie
-        public static void RunClass()
+        public static void Test()
         {
             SimpleClass simple = new SimpleClass(10, "simpleObject");
             simple.Concat();

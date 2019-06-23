@@ -77,7 +77,7 @@ using System.Text;
 
        
 
-        public static void ArraysTest(){
+        public static void Test(){
             Console.WriteLine("\n---Arrays---");
             ArraysInitialization();
             RectangularArrays();

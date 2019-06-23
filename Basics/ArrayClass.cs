@@ -61,7 +61,7 @@ using System.Text;
 
 
 
-        public static void ArrayClassTest(){
+        public static void Test(){
             Console.WriteLine(">ArrayClassTest()");
             ArraySort(new int[] {5,3,1,90,2});
             ArrayCopy();

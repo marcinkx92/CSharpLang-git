@@ -9,3 +9,14 @@
 /home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.AssemblyInfo.cs
 /home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.dll
 /home/marcinkx/dotNET workspace/TutorialsPoint/obj/Debug/netcoreapp2.1/TutorialsPoint.pdb
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.1/TutorialsPoint.deps.json
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.1/TutorialsPoint.runtimeconfig.json
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.1/TutorialsPoint.runtimeconfig.dev.json
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.1/TutorialsPoint.dll
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/bin/Debug/netcoreapp2.1/TutorialsPoint.pdb
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.1/TutorialsPoint.csprojAssemblyReference.cache
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.1/TutorialsPoint.csproj.CoreCompileInputs.cache
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.1/TutorialsPoint.AssemblyInfoInputs.cache
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.1/TutorialsPoint.AssemblyInfo.cs
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.1/TutorialsPoint.dll
+/home/marcink/Dev/marcinkx-github/CSharpLang-git/obj/Debug/netcoreapp2.1/TutorialsPoint.pdb

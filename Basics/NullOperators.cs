@@ -5,7 +5,7 @@ using System.Text;
 public class NullOperators
 {
     static string str;
-    public static void NullOperatorsTest()
+    public static void Test()
     {    Console.WriteLine("\n---NullOperators---");
         //  NULL-COALESCING OPERATOR
         //Unikamy przypisania wartości NULL - gdy zmienna=null, przypisujemy wartość alternatywną
