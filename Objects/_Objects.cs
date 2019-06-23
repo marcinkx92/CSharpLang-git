@@ -7,5 +7,6 @@ using System;
             Constructors.Test();
             Hermetization.Test();
             IndexerTest.Test(); //ThisKeyword 
+            Interfaces.Test();
         }
     }
